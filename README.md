@@ -5,10 +5,10 @@ Programming languages:
 
 - JavaScript
 - Python
+- Linux Shell
 
 Experience:
 
 - Approximately 10 months learning programming and pentesting!
-- Basic pentest
 - Front-End
 - Advanced Python skills
