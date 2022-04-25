@@ -3,12 +3,12 @@
 
 
 
-![SnowPenguim Status](https://github-readme-stats.vercel.app/api?username=HighHash&show_icons=true)
+![Hash$ Status](https://github-readme-stats.vercel.app/api?username=HashCipher&show_icons=true)
 
 
 
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HighHash&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashcipher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
