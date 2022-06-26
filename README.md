@@ -5,12 +5,7 @@
     <li>🌱 I’m currently learning <strong>Assembly & bash</strong></li>
     <li>📫 <strong>slobvd@inbox.ru</strong>; discord: Shokolalad#8888</li>
   </ul>
-
-</br>
-</br>
-</br>
-
-
+  
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
