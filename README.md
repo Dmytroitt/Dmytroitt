@@ -2,7 +2,7 @@
 
 <hr>
   <ul>
-    <li>🌱 I’m currently learning <strong>Assembly & bash</strong></li>
+    <li>🌱 I’m currently learning <strong>Assembly & ShellScript</strong></li>
     <li>📫 <strong>slobvd@inbox.ru</strong>; discord: Shokolalad#8888</li>
   </ul>
   
