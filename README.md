@@ -2,12 +2,17 @@
 
 <hr>
   <ul>
-    <li>🌱 I’m currently learning <strong>Assembly & ShellScript</strong></li>
+    <li>🌱 I’m currently learning <strong>Assembly</strong></li>
     <li>📫 <strong>slobvd@inbox.ru</strong>; discord: Shokolalad#8888</li>
   </ul>
   
 <h3 align="center">Languages</h3>
+
 <p align="center">
+   <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"
+      alt="c"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
