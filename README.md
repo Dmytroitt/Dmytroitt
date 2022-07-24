@@ -3,7 +3,7 @@
 <hr>
   <ul>
     <li>🌱 I’m currently learning <strong>Assembly</strong></li>
-    <li>📫 <strong>slobvd@inbox.ru</strong>; discord: Shokolalad#1231</li>
+    <li>📫 Discord: Shokolalad#1231</li>
   </ul>
   
 <h3 align="center">Languages</h3>
