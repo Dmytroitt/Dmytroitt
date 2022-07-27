@@ -2,8 +2,8 @@
 
 <hr>
   <ul>
-    <li>🌱 I’m currently learning <strong>Assembly</strong></li>
-    <li>📫 Discord: Shokolalad#1231</li>
+    <li>🌱 I’m currently learning <strong>Assembly & C (I want to learn C# also)</strong></li>
+    <li>📫 Telegram: <a href="https://t.me/Schokolade3">@Schokolade3<a></li>
   </ul>
   
 <h3 align="center">Languages</h3>
