@@ -3,7 +3,7 @@
 <hr>
   <ul>
     <li>🌱 I’m currently learning <strong>Assembly & C (I want to learn C# also)</strong></li>
-    <li>📫 Telegram: <a href="https://t.me/Schokolade3">@Schokolade3<a></li>
+    <li>📫 Telegram: <a href="https://t.me/ponimaiu628">@ponimaiu628<a></li>
   </ul>
   
 <h3 align="center">Languages</h3>
