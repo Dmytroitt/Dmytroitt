@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/shokolalad" target="_blank">
+  <a href="https://github.com/Dmytroitt" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://gitlab.com/" target="_blank">
@@ -80,9 +80,9 @@
 </br>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shokolalad&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shokolalad&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmytroitt&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmytroitt&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=shokolalad&theme=onestar&no-frame=true&column=3&row=2)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shokolalad&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![trophy](https://github-profile-trophy.vercel.app/?username=Dmytroitt&theme=onestar&no-frame=true&column=3&row=2)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dmytroitt&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
