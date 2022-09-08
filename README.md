@@ -2,7 +2,7 @@
 
 <hr>
   <ul>
-    <li>🌱 I’m currently learning <strong>Assembly & C (I want to learn C# also)</strong></li>
+    <li>🌱 I’m currently learning C#</strong></li>
     <li>📫 Telegram: <a href="https://t.me/ponimaiu628">@ponimaiu628<a></li>
   </ul>
   
