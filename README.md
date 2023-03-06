@@ -2,8 +2,8 @@
 
 <hr>
   <ul>
-    <li>🌱 I’m currently learning Java</strong></li>
-    <li>📫 Telegram: <a href="https://t.me/ponimaiu628">@ponimaiu628<a></li>
+    <li>🌱 I’m currently learning MySQL and Backend stuff</li>
+    <li>📫 Telegram: @Dmitri6778
   </ul>
   
 <h3 align="center">Languages</h3>
@@ -20,6 +20,10 @@
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
+  </a>
+    <a href="# target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+      alt="jv>
   </a>
   <a href="http://python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="c"/>
