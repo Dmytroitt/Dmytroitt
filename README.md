@@ -1,5 +1,7 @@
 # Hello!
 
+<img src="https://media.tenor.com/vZ3KwdqFkxEAAAAd/jinx-the-cat-jinx.gif" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" widght=1600px height=500px> <img>
+
 <hr>
   <ul>
     <li>🌱 I’m currently learning MySQL and Backend stuff</li>
