@@ -4,7 +4,7 @@
 
 <hr>
   <ul>
-    <li>🌱 I’m currently learning MySQL and Backend stuff</li>
+    <li>🌱 I’m currently learning MySQL, Python neural networks and Backend stuff</li>
     <li>📫 Telegram: @Dmitri6778
   </ul>
   
